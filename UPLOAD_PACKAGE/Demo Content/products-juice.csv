@@ -1,0 +1,349 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / Germany,Price / Germany,Compare At Price / Germany,Included / Canada,Price / Canada,Compare At Price / Canada,Included / Eurozone,Price / Eurozone,Compare At Price / Eurozone,Included / India,Price / India,Compare At Price / India,Included / International,Price / International,Compare At Price / International,Status
+blood-orange-with-kale,Blood orange with kale,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,19.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01.jpg?v=1702891282,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01.jpg?v=1702891282,kg,,,true,,,true,,,true,,,true,,,true,,,active
+blood-orange-with-kale,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-a.jpg?v=1702891281,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-c.jpg?v=1702891281,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-b.jpg?v=1702891282,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-a.jpg?v=1702891281,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-c.jpg?v=1702891281,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01.jpg?v=1702891282,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,50.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-d.jpg?v=1702891281,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-c.jpg?v=1702891281,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,25.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-a.jpg?v=1702891281,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01.jpg?v=1702891282,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-c.jpg?v=1702891281,kg,,,,,,,,,,,,,,,,,,
+blood-orange-with-kale,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-01-a.jpg?v=1702891281,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,Blue magic with pineapple,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,23.00,,true,true,"",https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02.jpg?v=1702882941,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02.jpg?v=1702882941,kg,,35.00,true,,,true,,,true,,,true,,,true,,,active
+blue-magic-with-pineapple,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-a.jpg?v=1702882941,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-c.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-b.jpg?v=1702882941,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-b.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-c.jpg?v=1702882941,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-d.jpg?v=1702882941,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-c.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-b.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-c.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+blue-magic-with-pineapple,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-02-b.jpg?v=1702882941,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,Orange juice with pineapple,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,17.00,20.00,true,true,"",https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05.jpg?v=1702889258,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05.jpg?v=1702889258,kg,,22.00,true,,,true,,,true,,,true,,,true,,,active
+orange-juice-with-pineapple,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-a.jpg?v=1702889258,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-c.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-b.jpg?v=1702889258,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-b.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-c.jpg?v=1702889258,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,50.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-d.jpg?v=1702889258,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-c.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,25.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-b.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-c.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+orange-juice-with-pineapple,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-05-b.jpg?v=1702889258,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,Power box with spinach,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,21.00,,true,true,"",https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06.jpg?v=1702890078,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06.jpg?v=1702890078,kg,,30.00,true,,,true,,,true,,,true,,,true,,,active
+copy-of-orange-juice-with-pineapple,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-a.jpg?v=1702890077,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-c.jpg?v=1702890077,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-b.jpg?v=1702890076,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-b.jpg?v=1702890076,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-c.jpg?v=1702890077,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06.jpg?v=1702890078,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-d.jpg?v=1702890077,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-c.jpg?v=1702890077,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-b.jpg?v=1702890076,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06.jpg?v=1702890078,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-c.jpg?v=1702890077,kg,,,,,,,,,,,,,,,,,,
+copy-of-orange-juice-with-pineapple,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-06-b.jpg?v=1702890076,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,Vanilla cream with lemon,"<div class=""more-description"">
+<h2>More Detail</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>
+<div class=""more-description"">
+<h2>Key Specification</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,23.00,,true,true,"",https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09.jpg?v=1702890808,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09.jpg?v=1702890808,kg,,28.00,true,,,true,,,true,,,true,,,true,,,active
+vanilla-cream-with-lemon,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-a.jpg?v=1702890808,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-c.jpg?v=1702890808,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-b.jpg?v=1702890807,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-b.jpg?v=1702890807,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-c.jpg?v=1702890808,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09.jpg?v=1702890808,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-d.jpg?v=1702890807,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-c.jpg?v=1702890808,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-b.jpg?v=1702890807,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09.jpg?v=1702890808,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-c.jpg?v=1702890808,kg,,,,,,,,,,,,,,,,,,
+vanilla-cream-with-lemon,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-09-b.jpg?v=1702890807,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,Vitality shot turmeric,"<div class=""more-description"">
+<h2>More Detail</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>
+<div class=""more-description"">
+<h2>Key Specification</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,25.00,,true,true,"",https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11.jpg?v=1702891112,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11.jpg?v=1702891112,kg,,30.00,true,,,true,,,true,,,true,,,true,,,active
+vitality-shot-turmeric,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-a.jpg?v=1702891111,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-d.jpg?v=1702891111,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-b.jpg?v=1702891111,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-b.jpg?v=1702891111,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-c.jpg?v=1702891111,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11.jpg?v=1702891112,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-d.jpg?v=1702891111,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-d.jpg?v=1702891111,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-b.jpg?v=1702891111,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11.jpg?v=1702891112,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-d.jpg?v=1702891111,kg,,,,,,,,,,,,,,,,,,
+vitality-shot-turmeric,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-11-b.jpg?v=1702891111,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,Squash carrot juice,"<div class=""more-description"">
+<h2>More Detail</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>
+<div class=""more-description"">
+<h2>Key Specification</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,19.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-a.jpg?v=1702890981,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-a.jpg?v=1702890981,kg,,,true,,,true,,,true,,,true,,,true,,,active
+squash-carrot-juice,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-b.jpg?v=1702890981,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-c.jpg?v=1702890770,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08.jpg?v=1702890981,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08.jpg?v=1702890981,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-c.jpg?v=1702890770,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-a.jpg?v=1702890981,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,50.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-d.jpg?v=1702890771,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-c.jpg?v=1702890770,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,25.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08.jpg?v=1702890981,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-a.jpg?v=1702890981,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08-c.jpg?v=1702890770,kg,,,,,,,,,,,,,,,,,,
+squash-carrot-juice,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-08.jpg?v=1702890981,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,Watermelon fitness shot,"<div class=""more-description"">
+<h2>More Detail</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>
+<div class=""more-description"">
+<h2>Key Specification</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,19.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12.jpg?v=1702890921,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12.jpg?v=1702890921,kg,,,true,,,true,,,true,,,true,,,true,,,active
+watermelon-fitness-shot,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-a.jpg?v=1702890921,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-c.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-b.jpg?v=1702890921,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-b.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-c.jpg?v=1702890921,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,50.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-d.jpg?v=1702890921,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-c.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,25.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-b.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-c.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+watermelon-fitness-shot,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-12-b.jpg?v=1702890921,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,Elderberry juice shot,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,19.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03.jpg?v=1702883552,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03.jpg?v=1702883552,kg,,,true,,,true,,,true,,,true,,,true,,,active
+elderberry-juice-shot,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-a.jpg?v=1702883551,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-c.jpg?v=1702883551,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-b.jpg?v=1702883551,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-b.jpg?v=1702883551,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,20.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-c.jpg?v=1702883551,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03.jpg?v=1702883552,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,50.00,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-d.jpg?v=1702883551,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-c.jpg?v=1702883551,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,25.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-b.jpg?v=1702883551,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03.jpg?v=1702883552,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-c.jpg?v=1702883551,kg,,,,,,,,,,,,,,,,,,
+elderberry-juice-shot,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,20.00,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-03-b.jpg?v=1702883551,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,Ginger lemon cayenne,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04.jpg?v=1702889211,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04.jpg?v=1702889211,kg,,30.00,true,,,true,,,true,,,true,,,true,,,active
+ginger-lemon-cayenne,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-a.jpg?v=1702889211,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-c.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-b.jpg?v=1702889211,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-b.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-c.jpg?v=1702889211,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-d.jpg?v=1702889211,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-c.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-b.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-c.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+ginger-lemon-cayenne,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-04-b.jpg?v=1702889211,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,Pressed healthy Shot,"<div class=""more-description""> <h2>More Detail</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div> <div class=""more-description""> <h2>Key Specification</h2> <ul> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p></li> <li><p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p></li> <li><p>type here your detail one by one li more add</p></li> <li><p>has been the industry’s standard dummy text ever since. Lorem Ips</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> <li><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p></li> </ul> </div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07.jpg?v=1702890727,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07.jpg?v=1702890727,kg,,30.00,true,,,true,,,true,,,true,,,true,,,active
+pressed-healthy-shot,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-a.jpg?v=1702890727,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-c.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-b.jpg?v=1702890727,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-b.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-c.jpg?v=1702890727,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-d.jpg?v=1702890728,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-c.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-b.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-c.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+pressed-healthy-shot,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-07-b.jpg?v=1702890727,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,Vilma wellness shot,"<div class=""more-description"">
+<h2>More Detail</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>
+<div class=""more-description"">
+<h2>Key Specification</h2>
+<ul>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+</li>
+<li>
+<p>Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsumum is simply dummy text.</p>
+</li>
+<li>
+<p>type here your detail one by one li more add</p>
+</li>
+<li>
+<p>has been the industry’s standard dummy text ever since. Lorem Ips</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+<li>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ‘s standard dummy text. Lorem Ipsum has been the industry’s standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+</li>
+</ul>
+</div>",Vegist juice,,"","",true,Size,200 Ml,Flavour,Caret,,,123456,10000.0,,5,deny,manual,25.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10.jpg?v=1702890845,1,"",false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10.jpg?v=1702890845,kg,,30.00,true,,,true,,,true,,,true,,,true,,,active
+vilma-wellness-shot,,,,,,,,,200 Ml,,Kiwi,,,964654,10000.0,shopify,10,deny,manual,17.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-a.jpg?v=1702890845,2,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-c.jpg?v=1702890845,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,200 Ml,,Orange,,,789541,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-b.jpg?v=1702890846,3,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-b.jpg?v=1702890846,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,500 Ml,,Caret,,,745125,10000.0,shopify,9,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-c.jpg?v=1702890845,4,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10.jpg?v=1702890845,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,500 Ml,,Kiwi,,,456632,10000.0,shopify,10,deny,manual,18.00,,true,true,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-d.jpg?v=1702890846,5,"",,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-c.jpg?v=1702890845,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,500 Ml,,Orange,,,241365,10000.0,shopify,10,deny,manual,16.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-b.jpg?v=1702890846,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,1 Lt,,Caret,,,478541,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10.jpg?v=1702890845,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,1 Lt,,Kiwi,,,778954,10000.0,shopify,0,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-c.jpg?v=1702890845,kg,,,,,,,,,,,,,,,,,,
+vilma-wellness-shot,,,,,,,,,1 Lt,,Orange,,,332145,10000.0,shopify,10,deny,manual,18.00,,true,true,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0412/8151/9765/files/pro-10-b.jpg?v=1702890846,kg,,,,,,,,,,,,,,,,,,
